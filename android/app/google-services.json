@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585481162088",
+    "project_id": "onest-crm",
+    "storage_bucket": "onest-crm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585481162088:android:0e5b513392035773f81add",
+        "android_client_info": {
+          "package_name": "com.onest.crm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585481162088-rau37o8er8chri500fjrnsdf0fh7b27g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgVurWGHUTDctlaTnLWbf5LePoZGmcnzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585481162088-rau37o8er8chri500fjrnsdf0fh7b27g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
